@@ -16,7 +16,9 @@ This repository contains very simple code to support my journey learning how to 
  
 ## Week 2
 
-* [Gist]() containing:
-  * [Week 2 Exercise 1: Move my Face!]()
-  * [Week 2 Exercise 2: Mapping Global Dental Health]()
-  * [Week 2 Exercise 3: Mapping Gapminder Data]()
+This week'es exercise involved getting more substantial data into Processing.  We used images that either moved around or as a background for other data.  We also used Table to load in more substantive datasets and plotted [Gapminder data](http://www.gapminder.org/data/) onto a map background image.
+
+* [Gist](https://gist.github.com/alisonpope/18bd555aa750d1c88b7e) containing:
+  * [Week 2 Exercise 1: Move my Face!](https://gist.github.com/alisonpope/18bd555aa750d1c88b7e#file-wk2exercise1-pde)
+  * Week 2 Exercise 2: Mapping Global Dental Health
+  * Week 2 Exercise 3: Mapping Gapminder Data
